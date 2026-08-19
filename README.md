@@ -52,7 +52,6 @@ The system includes an end-to-end inference script (`9_predict_ki67.py`) that pr
 *   **AI Predicted Ki-67:** 80.95% (68 Positive, 16 Negative)
 *   **Margin of Error:** ~1.19% (Off by a single cell classification)
 
-*(Note: Add a screenshot of your visual output here by uploading the image to your repo and replacing the link below!)*
 
 ![AI Inference Visualization](ki67_result_18.png)
 *Red Circles = Ki-67 Positive (Proliferating) | Green Circles = Ki-67 Negative (Non-proliferating)*
