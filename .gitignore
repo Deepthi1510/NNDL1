@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Datasets (too large for GitHub)
+Dataset_Patches/
+images/
+annotations/
+
+# Model checkpoints (optional: keep if each .keras is <100MB, otherwise exclude)
+# *.keras
