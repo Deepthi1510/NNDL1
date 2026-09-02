@@ -11,7 +11,7 @@ print("=========================================\n")
 
 # --- 1. Configuration ---
 # CHANGE THIS to the name of any image in your BCData/images/test/ folder!
-TEST_IMAGE_NAME = "18.png" 
+TEST_IMAGE_NAME = "87.png" 
 
 IMG_PATH = f"images/test/{TEST_IMAGE_NAME}"
 POS_H5_PATH = f"annotations/test/positive/{TEST_IMAGE_NAME.replace('.png', '.h5')}"
